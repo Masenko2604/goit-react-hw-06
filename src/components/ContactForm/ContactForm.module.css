@@ -4,7 +4,7 @@
   padding: 15px;
   margin: 0 auto;
   border-radius: 15px;
-  background-color: rgb(135, 211, 220);
+  background-color: rgb(169, 238, 227);
 }
 
 .field {
@@ -16,7 +16,8 @@
 .fieldInput {
   padding: 10px;
   border-radius: 20px;
-  background-color: rgb(182, 252, 252) ;
+  background-color: rgb(214, 241, 237);
+  box-shadow: 0 6px 8px rgb(12, 137, 141), 0 -2px 1px rgb(12, 137, 141);
   margin-bottom: 4px
 
 }
@@ -37,9 +38,10 @@
 .btn {
   padding: 10px;
   border-radius: 20px;
-  background-color: rgb(182, 252, 252);
+  background-color: rgb(214, 241, 237);
   cursor: pointer;
   transition: 450ms;
+  box-shadow: 0 6px 8px rgb(12, 137, 141), 0 -2px 1px rgb(12, 137, 141);
 }
 
 .btn:is(:hover, :focus) {

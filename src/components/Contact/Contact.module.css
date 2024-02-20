@@ -5,7 +5,7 @@
   border: 2px solid black;
   border-radius: 20px;
   background-color: rgb(130, 241, 223);
-  box-shadow: 0 6px 8px #daecf0, 0 -2px 1px #daecf0;
+  box-shadow: 0 6px 8px rgb(12, 137, 141), 0 -2px 1px rgb(12, 137, 141);
 }
 
 .information {
@@ -21,7 +21,7 @@
   width: 80px;
   margin: auto 0;
   background-color: rgb(130, 241, 223);
-    box-shadow: 0 6px 8px #daecf0, 0 -2px 1px #daecf0;
+  box-shadow: 0 6px 8px rgb(12, 137, 141), 0 -2px 1px rgb(12, 137, 141);
   cursor: pointer;
   border-radius: 13px;
   transition: 350ms;
