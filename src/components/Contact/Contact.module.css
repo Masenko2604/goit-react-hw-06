@@ -5,6 +5,7 @@
   border: 2px solid black;
   border-radius: 20px;
   background-color: rgb(130, 241, 223);
+  box-shadow: 0 6px 8px #daecf0, 0 -2px 1px #daecf0;
 }
 
 .information {
@@ -19,7 +20,8 @@
   height: 40px;
   width: 80px;
   margin: auto 0;
-  background-color: transparent;
+  background-color: rgb(130, 241, 223);
+    box-shadow: 0 6px 8px #daecf0, 0 -2px 1px #daecf0;
   cursor: pointer;
   border-radius: 13px;
   transition: 350ms;
