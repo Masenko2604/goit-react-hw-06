@@ -12,7 +12,9 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-
+h1 {
+  color: aqua;
+}
 
 h1,
 h2,
@@ -23,6 +25,7 @@ h6,
 p {
   margin: 0;
 }
+
 
 ul,
 ol {
