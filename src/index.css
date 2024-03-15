@@ -13,7 +13,8 @@
   background-size: cover;
 }
 h1 {
-  color: aqua;
+  color: rgb(5, 133, 133);
+  text-shadow: 0 0.4px 0.4px #c4f3f4;
 }
 
 h1,
