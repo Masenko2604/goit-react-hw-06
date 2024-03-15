@@ -14,8 +14,7 @@
 }
 h1 {
   color: rgb(5, 133, 133);
-  text-shadow: 0 0.4px 0.4px #c4f3f4;
-  /* padding-left: 40px; */
+  text-shadow: 0 0.4px 0.4px #c4f3f4;  
   padding-top: 32px ;
   font-size: 3em;
   display: flex;
