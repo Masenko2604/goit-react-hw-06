@@ -4,8 +4,9 @@
   display: block;
   margin: 40px auto 0 auto;
   color: #daecf0;
-  /* background-color: rgb(130, 241, 223); */
-  box-shadow: 0 6px 8px #daecf0, 0 -2px 1px #daecf0;
+  padding-bottom: 5px;
+  
+
 }
 
 .label {
