@@ -25,6 +25,7 @@
   cursor: pointer;
   border-radius: 13px;
   transition: 350ms;
+  
 }
 
 .btn:is(:hover, :focus) {
